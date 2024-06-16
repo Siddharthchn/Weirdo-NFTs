@@ -26,21 +26,21 @@ const Footer = () => {
           <Logo />
           <IconList>
             <a
-              href="http://twitter.com/israelmitolu"
+              href="http://twitter.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Twitter />
             </a>
             <a
-              href="http://linkedin.com/in/israeloyetunji"
+              href="http://linkedin.com/in/siddharthchauhan08"
               target="_blank"
               rel="noopener noreferrer"
             >
               <LinkedIn />
             </a>
             <a
-              href="http://instagram.com/devmitoluu"
+              href="http://instagram.com/_sidchauhan_"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -72,11 +72,11 @@ const Footer = () => {
         <span>
           Made with 💖 by {""}
           <a
-            href="https://twitter.com/israelmitolu"
+            href="https://instagram.com/_sidchauhan_"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Israel Mitolu
+            Siddharth Chauhan
           </a>
         </span>
       </Credits>
